@@ -6,33 +6,33 @@
 <h1 align="center">Things I have to do list 📝</h1>
 
 <p align="center">
-<a href="https://github.com/ibralassaf/todo/blob/master/LICENSE" target="blank">
+<a href="https://github.com/ibralassaf/things-have-to-do/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/saviomartin/slickr?style=flat-square" alt="slickr licence" />
 </a>
-<a href="https://github.com/ibralassaf/todo/fork" target="blank">
-<img src="https://img.shields.io/github/forks/ibralassaf/todo?style=flat-square" alt="slickr forks"/>
+<a href="https://github.com/ibralassaf/things-have-to-do/fork" target="blank">
+<img src="https://img.shields.io/github/forks/ibralassaf/things-have-to-do?style=flat-square" alt="slickr forks"/>
 </a>
-<a href="https://github.com/ibralassaf/todo/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/ibralassaf/todo?style=flat-square" alt="slickr stars"/>
+<a href="https://github.com/ibralassaf/things-have-to-do/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/ibralassaf/things-have-to-do?style=flat-square" alt="slickr stars"/>
 </a>
-<a href="https://github.com/ibralassaf/todo/issues" target="blank">
-<img src="https://img.shields.io/github/issues/ibralassaf/todo?style=flat-square" alt="slickr issues"/>
+<a href="https://github.com/ibralassaf/things-have-to-do/issues" target="blank">
+<img src="https://img.shields.io/github/issues/ibralassaf/things-have-to-do?style=flat-square" alt="slickr issues"/>
 </a>
-<a href="https://github.com/ibralassaf/todo/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/ibralassaf/todo?style=flat-square" alt="slickr pull-requests"/>
+<a href="https://github.com/ibralassaf/things-have-to-do/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ibralassaf/things-have-to-do?style=flat-square" alt="slickr pull-requests"/>
 </a>
 
 
 </p>
 
-<p align="center"><img src="https://i.imgur.com/DuQCEuc.gif" alt="toDo gif" width="550" /></p>
+<p align="center"><img src="https://i.imgur.com/DuQCEuc.gif" alt="things-have-to-do gif" width="550" /></p>
 
 <p align="center">
     <a href="https://things-have-to-do.herokuapp.com/">View Demo</a>
     ·
-    <a href="https://github.com/ibralassaf/todo/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/ibralassaf/things-have-to-do/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/ibralassaf/todo/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/ibralassaf/things-have-to-do/issues/new/choose">Request Feature</a>
 </p>
 
 ### Introducing Things I have to do ✌️
@@ -64,13 +64,13 @@ You can discover the rest yourself ✨️
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ibralassaf/todo.git
+git clone https://github.com/ibralassaf/things-have-to-do.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd todo
+cd things-have-to-do
 ```
 
 3. Install dependencies
@@ -95,7 +95,7 @@ You are all set! Open [localhost:3000](http://localhost:3000/) to see the app.
 
 ## 🍰 Contributing
 
-- Feel free to contribute and put your touch. Create a branch, add commits, and [open a pull request](https://github.com/ibralassaf/todo/compare).
+- Feel free to contribute and put your touch. Create a branch, add commits, and [open a pull request](https://github.com/ibralassaf/things-have-to-do/compare).
 
 
 ## 💡 What's next
