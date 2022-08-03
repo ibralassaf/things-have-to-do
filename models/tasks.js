@@ -9,4 +9,5 @@ const schema = new mongoose.Schema({
 
 });
 
+//DB Model export
 module.exports = mongoose.model('Task', schema);
