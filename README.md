@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="/">
-    <img alt="Slickr" src="https://i.imgur.com/linKi2A.png" width="350" />
-  </a>
+
 </p>
 <h1 align="center">Things I have to do list 📝</h1>
 
@@ -35,10 +33,12 @@
     <a href="https://github.com/ibralassaf/things-have-to-do/issues/new/choose">Request Feature</a>
 </p>
 
+>**Warning**
+>The demo shares the same database, it is possible to see the tasks of others
+
 ### Introducing Things I have to do ✌️
 
 Things to do is a to do list app built using Express and MVC pattern with Mongo database, You can add a task, delete, update, and read your tasks and the project was for the purpose of learning🤟
-
 
 ## 💻 Techstack & methodologies
 
@@ -79,16 +79,23 @@ cd things-have-to-do
 npm install
 ```
 
-4. Do this command with every css change
+4. Create `.env` file in root and add your variables
 
 ```bash
-npm run tailwind:css
+MONGO_URI=YOUR_MONGODB_URL
 ```
 
 5. Run the app
 
 ```bash
 npm start
+```
+----
+>**Note**
+>Do this command with every css change
+
+```bash
+npm run tailwind:css
 ```
 
 You are all set! Open [localhost:3000](http://localhost:3000/) to see the app.
