@@ -13,6 +13,7 @@ app.use(methodOverride('_method', { methods: ['POST', 'GET'] }));
 
 app.use(express.urlencoded({ extended: true }));
 
+//replace with your mongodb url in .env file (make sure you have a db called 'todo')
 mongoose.connect(`${process.env.MONGO_URI}`, { useNewUrlParser: true, useUnifiedTopology: true });
 
 app.use('/', router);
