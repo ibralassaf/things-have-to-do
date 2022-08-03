@@ -1,0 +1,31 @@
+{
+    "name": "express",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "tailwind:css": "postcss public/styles/tailwind.css -o public/styles/style.css",
+        "start": "node app.js",
+        "start:dev": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap-icons": "^1.9.1",
+        "core-util-is": "^1.0.3",
+        "dotenv": "^16.0.1",
+        "ejs": "^3.1.8",
+        "express": "^4.18.1",
+        "git-filter-repo": "^0.0.30",
+        "method-override": "^3.0.0",
+        "mongoose": "^6.5.0",
+        "postcss": "^8.4.14",
+        "postcss-cli": "^10.0.0",
+        "tailwindcss": "^3.1.7"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
