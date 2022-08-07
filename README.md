@@ -26,7 +26,7 @@
 <p align="center"><img src="https://i.imgur.com/DuQCEuc.gif" alt="things-have-to-do gif" width="550" /></p>
 
 <p align="center">
-    <a href="https://things-have-to-do.herokuapp.com/">View Demo</a>
+    <a href="https://todo.ibas.dev/">View Demo</a>
     ·
     <a href="https://github.com/ibralassaf/things-have-to-do/issues/new/choose">Report Bug</a>
     ·
