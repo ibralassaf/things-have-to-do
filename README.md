@@ -40,11 +40,9 @@
 
 Things to do is a to do list app built using Express and MVC pattern with Mongo database, You can add a task, delete, update, and read your tasks and the project was for the purpose of learning🤟
 
-## 💻 Techstack & methodologies
+## 💻 Tech Stack Used
 
-"Things I have to do" built with moderen techstack and tools to help the developer during dev process, Here're some of it .
-
-> The techs and tools.
+> "Things I have to do" built with moderen techstack and tools to help the developer during dev process, Here're some of it .
 
 - ⚙️ **Nodejs** (Back-end)
 - ⚙️ **Express** (minimal framework)
